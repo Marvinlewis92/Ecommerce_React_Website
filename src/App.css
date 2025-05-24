@@ -1,0 +1,10 @@
+.app-container {
+    display: flex;
+    flex-direction: column;
+    /* align-content: space-between; */
+    justify-content: center;
+    background-color: burlywood;
+}
+
+
+
